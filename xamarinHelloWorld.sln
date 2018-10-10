@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarinHelloWorld", "xamarinHelloWorld\xamarinHelloWorld.csproj", "{461DD7EF-9051-4203-BE09-EDD266E0A27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461DD7EF-9051-4203-BE09-EDD266E0A27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461DD7EF-9051-4203-BE09-EDD266E0A27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461DD7EF-9051-4203-BE09-EDD266E0A27B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{461DD7EF-9051-4203-BE09-EDD266E0A27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461DD7EF-9051-4203-BE09-EDD266E0A27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461DD7EF-9051-4203-BE09-EDD266E0A27B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62958125-D5CA-4284-9C2E-5D9A55BDB549}
+	EndGlobalSection
+EndGlobal
